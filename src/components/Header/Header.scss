@@ -1,0 +1,17 @@
+header {
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+
+    padding: 4rem;
+    width: 25dvw;
+    height: 100dvh;
+
+    border-radius: 0 1rem 1rem 0;
+
+    outline: 1px solid rgb(146, 146, 146) ;
+
+    backdrop-filter: blur(1rem);
+    -webkit-backdrop-filter: blur(1rem);
+    
+}
